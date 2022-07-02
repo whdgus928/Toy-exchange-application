@@ -1,5 +1,4 @@
-# graduation-work
-졸업작품 저장소
+Toy exchange application
 
 온라인 중고 장난감 교환 플랫폼
 2021-12~ 현재 진행중
